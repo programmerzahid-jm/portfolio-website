@@ -56,12 +56,13 @@ span{
 
 .full-stack{
     width: 35%;
-    box-shadow: 20px 30px 40px lightgray;
+    box-shadow: 10px 10px 40px lightgray;
     padding: 20px 30px;
     border-left: 5px solid;
     border-image:linear-gradient(180deg,tomato, #ffa07ad0 );
     border-image-slice: 1;
     height: 350px;
+    border-radius: 10px;
 }
 
 .full-stack p{
@@ -70,12 +71,13 @@ span{
 
 .baby-dev{
     width: 35%;
-    box-shadow: 20px 30px 40px lightgray;
+    box-shadow: 10px 10px 40px lightgray;
     padding: 20px 30px;
     border-left: 5px solid;
     border-image:linear-gradient(180deg,rgb(13, 34, 223), #02aaf8d0 );
     border-image-slice: 1;
     height: 350px;
+    border-radius: 10px;
 }
 .baby-dev{
     font-size: 20px;
